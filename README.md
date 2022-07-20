@@ -1,1 +1,1 @@
-# GE-RA-Website
+# GE&RA-Website
